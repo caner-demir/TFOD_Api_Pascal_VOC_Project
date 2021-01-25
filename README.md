@@ -1,1 +1,1 @@
-Object detection models trained on Pascal VOC dataset.
+Colab files for creating models trained on Pascal VOC dataset.
