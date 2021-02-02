@@ -1,7 +1,6 @@
 ## Overview
 In this project, two models (Faster R-CNN and R-FCN) in TensorFlow model zoo were trained on Pascal VOC dataset. Steps and detailed descriptions on steps can be found in the files above.
 
-## Model Architectures
 ## Model Performances
 ![](images/faster-rcnn-iou50.png)  |  ![](images/faster-rcnn-iou75.png)
 :-------------------------:|:-------------------------:
